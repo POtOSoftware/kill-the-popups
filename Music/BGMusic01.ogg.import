@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/BGMusic01.ogg-70bc0d38edc46e034f8ca2ba952f83ea.oggstr"
+
+[deps]
+
+source_file="res://Music/BGMusic01.ogg"
+dest_files=[ "res://.import/BGMusic01.ogg-70bc0d38edc46e034f8ca2ba952f83ea.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
